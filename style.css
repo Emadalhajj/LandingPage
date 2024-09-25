@@ -10,12 +10,11 @@
     --primary-color:#fff;
     --font-size:16px;
     --main-font-famliy: Inter, sans-serif;
-    
+
 
 }
 body{
-    font-family: var(--main-font-famliy);
-   
+    font-family: var(--main-font-famliy);   
 }
 
 .header{
